@@ -82,7 +82,6 @@ def encrypt (x): #convert 0 to 1 and 1 to 0
     return a 
 
 
-'''This one below is written by me with help of ai'''
 
 # def encrypt_the_file (filepath, output_filepath=None):
     
